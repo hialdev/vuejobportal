@@ -10,7 +10,7 @@
                 </div>
             </div>
             <div class="grid grid-cols-4">
-                <div class="bg-white rounded-2xl p-3 border-2 border-white hover:shadow-lg cursor-pointer">
+                <div class="bg-white rounded-2xl p-3 border-2 border-white hover:shadow cursor-pointer m-3">
                     <img src="../../public/placeholder_company.png" alt="Placeholder Company PP" class="w-full max-w-[5em] block rounded-lg mx-auto my-2">
                     <div class="text-center">
                         <h4 class="font-semibold">Company Name</h4>
@@ -27,6 +27,123 @@
                             <span class="">4.9</span>
                         </div>
                         <div class="text-sm text-gray-600">(17 Reviews)</div>
+                    </div>
+                    <hr class="my-3">
+                    <div class="flex items-center justify-between gap-3">
+                        <div class="flex items-center gap-2">
+                            <Icon icon="material-symbols:work" class="text-red-600" />
+                            <span class="font-semibold">8 Jobs Open</span>
+                        </div>
+                        <Icon icon="majesticons:arrow-right" />
+                    </div>
+                </div>
+                <div class="bg-white rounded-2xl p-3 border-2 border-white hover:shadow cursor-pointer m-3">
+                    <img src="../../public/placeholder_company.png" alt="Placeholder Company PP" class="w-full max-w-[5em] block rounded-lg mx-auto my-2">
+                    <div class="text-center">
+                        <h4 class="font-semibold">Company Name</h4>
+                        <div class="flex items-center justify-center gap-2">
+                            <Icon icon="teenyicons:pin-outline" class="text-red-700" />
+                            <span class="text-sm text-gray-500">Jakarta, Indonesia</span>
+                        </div>
+                        <div class="flex items-center justify-center gap-2">
+                            <Icon icon="ph:star-fill" class="text-orange-600" />
+                            <Icon icon="ph:star-fill" class="text-orange-600" />
+                            <Icon icon="ph:star-fill" class="text-orange-600" />
+                            <Icon icon="ph:star-fill" class="text-orange-600" />
+                            <Icon icon="ph:star-half-fill" class="text-orange-600" />
+                            <span class="">4.9</span>
+                        </div>
+                        <div class="text-sm text-gray-600">(17 Reviews)</div>
+                    </div>
+                    <hr class="my-3">
+                    <div class="flex items-center justify-between gap-3">
+                        <div class="flex items-center gap-2">
+                            <Icon icon="material-symbols:work" class="text-red-600" />
+                            <span class="font-semibold">8 Jobs Open</span>
+                        </div>
+                        <Icon icon="majesticons:arrow-right" />
+                    </div>
+                </div>
+
+                <div class="bg-white rounded-2xl p-3 border-2 border-white hover:shadow cursor-pointer m-3">
+                    <img src="../../public/placeholder_company.png" alt="Placeholder Company PP" class="w-full max-w-[5em] block rounded-lg mx-auto my-2">
+                    <div class="text-center">
+                        <h4 class="font-semibold">Company Name</h4>
+                        <div class="flex items-center justify-center gap-2">
+                            <Icon icon="teenyicons:pin-outline" class="text-red-700" />
+                            <span class="text-sm text-gray-500">Jakarta, Indonesia</span>
+                        </div>
+                        <div class="flex items-center justify-center gap-2">
+                            <Icon icon="ph:star-fill" class="text-orange-600" />
+                            <Icon icon="ph:star-fill" class="text-orange-600" />
+                            <Icon icon="ph:star-fill" class="text-orange-600" />
+                            <Icon icon="ph:star-fill" class="text-orange-600" />
+                            <Icon icon="ph:star-half-fill" class="text-orange-600" />
+                            <span class="">4.9</span>
+                        </div>
+                        <div class="text-sm text-gray-600">(17 Reviews)</div>
+                    </div>
+                    <hr class="my-3">
+                    <div class="flex items-center justify-between gap-3">
+                        <div class="flex items-center gap-2">
+                            <Icon icon="material-symbols:work" class="text-red-600" />
+                            <span class="font-semibold">8 Jobs Open</span>
+                        </div>
+                        <Icon icon="majesticons:arrow-right" />
+                    </div>
+                </div>
+                <div class="bg-white rounded-2xl p-3 border-2 border-white hover:shadow cursor-pointer m-3">
+                    <img src="../../public/placeholder_company.png" alt="Placeholder Company PP" class="w-full max-w-[5em] block rounded-lg mx-auto my-2">
+                    <div class="text-center">
+                        <h4 class="font-semibold">Company Name</h4>
+                        <div class="flex items-center justify-center gap-2">
+                            <Icon icon="teenyicons:pin-outline" class="text-red-700" />
+                            <span class="text-sm text-gray-500">Jakarta, Indonesia</span>
+                        </div>
+                        <div class="flex items-center justify-center gap-2">
+                            <Icon icon="ph:star-fill" class="text-orange-600" />
+                            <Icon icon="ph:star-fill" class="text-orange-600" />
+                            <Icon icon="ph:star-fill" class="text-orange-600" />
+                            <Icon icon="ph:star-fill" class="text-orange-600" />
+                            <Icon icon="ph:star-half-fill" class="text-orange-600" />
+                            <span class="">4.9</span>
+                        </div>
+                        <div class="text-sm text-gray-600">(17 Reviews)</div>
+                    </div>
+                    <hr class="my-3">
+                    <div class="flex items-center justify-between gap-3">
+                        <div class="flex items-center gap-2">
+                            <Icon icon="material-symbols:work" class="text-red-600" />
+                            <span class="font-semibold">8 Jobs Open</span>
+                        </div>
+                        <Icon icon="majesticons:arrow-right" />
+                    </div>
+                </div>
+                <div class="bg-white rounded-2xl p-3 border-2 border-white hover:shadow cursor-pointer m-3">
+                    <img src="../../public/placeholder_company.png" alt="Placeholder Company PP" class="w-full max-w-[5em] block rounded-lg mx-auto my-2">
+                    <div class="text-center">
+                        <h4 class="font-semibold">Company Name</h4>
+                        <div class="flex items-center justify-center gap-2">
+                            <Icon icon="teenyicons:pin-outline" class="text-red-700" />
+                            <span class="text-sm text-gray-500">Jakarta, Indonesia</span>
+                        </div>
+                        <div class="flex items-center justify-center gap-2">
+                            <Icon icon="ph:star-fill" class="text-orange-600" />
+                            <Icon icon="ph:star-fill" class="text-orange-600" />
+                            <Icon icon="ph:star-fill" class="text-orange-600" />
+                            <Icon icon="ph:star-fill" class="text-orange-600" />
+                            <Icon icon="ph:star-half-fill" class="text-orange-600" />
+                            <span class="">4.9</span>
+                        </div>
+                        <div class="text-sm text-gray-600">(17 Reviews)</div>
+                    </div>
+                    <hr class="my-3">
+                    <div class="flex items-center justify-between gap-3">
+                        <div class="flex items-center gap-2">
+                            <Icon icon="material-symbols:work" class="text-red-600" />
+                            <span class="font-semibold">8 Jobs Open</span>
+                        </div>
+                        <Icon icon="majesticons:arrow-right" />
                     </div>
                 </div>
             </div>
